@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webjoyn.github.io/webjoyn-vorschau/josef-schnell-gmbh-88f945fb//sitemap.xml
