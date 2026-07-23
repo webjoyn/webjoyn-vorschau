@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webjoyn.github.io/webjoyn-vorschau/loga-bau-gmbh-d24caa43//sitemap.xml
